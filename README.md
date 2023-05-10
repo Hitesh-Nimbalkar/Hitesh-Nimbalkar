@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **Machine learning projects**
-
 - 📫 How to reach me **nimbalkarhitesh@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
