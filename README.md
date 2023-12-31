@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesh-nimbalkar" alt="hitesh-nimbalkar" /></a> </p>
 
-- 🔭 I’m currently working on **MAchine LEarning Projects and NLP **
+- 🔭 I’m currently working on **Machine LEarning Projects and NLP **
 
 - 🌱 I’m currently learning **ML and DL**
 
